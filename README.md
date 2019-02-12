@@ -6,8 +6,10 @@
     [Semi-Implicit Variational Inference](https://github.com/mingzhang-yin/SIVI).    
     [VAE with a VampPrior](https://github.com/jmtomczak/vae_vampprior).    
     [Vanilla VAE](https://github.com/hwalsuklee/tensorflow-mnist-VAE).  
-  2.2 GAN  
+  1.2 GAN  
     [Tensorflow-gans, an exhaustive collection of GANs in tf](https://github.com/TwistedW/tensorflow-GANs).   
     Source of the above. VAEs also can be found [here](https://github.com/hwalsuklee/tensorflow-generative-model-collections).  
     
 ### 2. Adversarial Training
+  [How to train a GAN?](https://github.com/soumith/ganhacks)  
+  [Gradients manipulation](https://github.com/pumpikano/tf-dann).  
