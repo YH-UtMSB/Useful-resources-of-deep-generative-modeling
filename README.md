@@ -3,8 +3,8 @@
 
 ### 1. SOTA implementations
   1.1 VAE
-    [Semi-Implicit Variational Inference.](https://github.com/mingzhang-yin/SIVI)
-    [VAE with a VampPrior.](https://github.com/jmtomczak/vae_vampprior)
+    [Semi-Implicit Variational Inference.](https://github.com/mingzhang-yin/SIVI)  
+    [VAE with a VampPrior.](https://github.com/jmtomczak/vae_vampprior)  
   2.2 GAN
     [Tensorflow-gans, an exhaustive collection of GANs in tf.](https://github.com/TwistedW/tensorflow-GANs)
     
