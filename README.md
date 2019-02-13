@@ -9,6 +9,7 @@
   1.2 GAN  
     [Tensorflow-gans, an exhaustive collection of GANs in tf](https://github.com/TwistedW/tensorflow-GANs).   
     Source of the above. VAEs also can be found [here](https://github.com/hwalsuklee/tensorflow-generative-model-collections).  
+    DCGAN: [1](https://github.com/carpedm20/DCGAN-tensorflow), [2](https://github.com/sugyan/tf-dcgan).
     
 ### 2. Adversarial Training
   [How to train a GAN?](https://github.com/soumith/ganhacks)  
